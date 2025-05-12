@@ -144,6 +144,7 @@ p{
 
 #header .logo a {
   color: #222222;
+  font-family: math;
 }
 #header .logo a:hover{
   color: #ffb979 !important;
