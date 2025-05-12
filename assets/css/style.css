@@ -755,6 +755,7 @@ section {
   display: block;
   background: none;
   border-radius: 0;
+  background-image: none !important;
 }
 
 .skills .progress .skill {
